@@ -1,6 +1,6 @@
-#include <iostream>
+#include "System.h"
 
-int main()
-{
-    std::cout<<"Hello"<<std::endl;
+int main() {
+  Run();
+  return 0;
 }
