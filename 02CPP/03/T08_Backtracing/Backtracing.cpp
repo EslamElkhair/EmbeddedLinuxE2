@@ -35,7 +35,7 @@ Backtrace::~Backtrace() {
 }
 
 void Backtrace::PrintBacktrace() {
-  std::cout << "\nBacktrace :" << std::endl;
+  std::cout << "\nBacktrace  :" << std::endl;
   for (auto function : function_stack_) {
     std::cout << function << " -> ";
   }
