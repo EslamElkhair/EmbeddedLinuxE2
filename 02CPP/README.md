@@ -26,7 +26,7 @@
 ## 02
 
 #### 1. Find Maximum in an Integer Array
-- [C++ program to find the maximum number in an integer array](2/1-%20Find%20Maximum%20in%20an%20Integer%20Array/)
+- [C++ program to find the maximum number in an integer array](/02CPP/02/Task03_0.cpp)
 
 #### 2. Search Number in an Integer Array
 - [C++ program to search for a number in an integer array](2/2-%20Search%20Number%20in%20an%20Integer%20Array/)
