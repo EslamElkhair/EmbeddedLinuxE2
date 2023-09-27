@@ -26,25 +26,25 @@
 ## 02
 
 #### 1. Find Maximum in an Integer Array
-- [C++ program to find the maximum number in an integer array](/02CPP/02/Task03_0.cpp)
+- [C++ program to find the maximum number in an integer array](/02CPP/02/Task01.cpp)
 
 #### 2. Search Number in an Integer Array
-- [C++ program to search for a number in an integer array](2/2-%20Search%20Number%20in%20an%20Integer%20Array/)
-
+- [C++ program to search for a number in an integer array](/02CPP/02/Task02.cpp)
+  
 #### 3. Delete Number in an Integer Array
-- [C++ program to delete a number from an integer array](2/3-%20Delete%20Number%20in%20an%20Integer%20Array/)
+- [C++ program to delete a number from an integer array]()
 
 #### 4. Merge Arrays
-- [C++ program to merge two arrays](2/4-%20Merge%20Arrays/)
+- [C++ program to merge two arrays](/02CPP/02/Task04.cpp)
 
 #### 5. Separate Even and Odd Numbers
-- [C++ program to separate even and odd numbers in an array](2/5-%20Separate%20Even%20and%20Odd%20Numbers/)
+- [C++ program to separate even and odd numbers in an array](/02CPP/02/T05.cpp)
 
 #### 6. Calculate Square with Lambda Function
-- [C++ program to calculate squares using lambda functions](2/6-%20Calculate%20Square%20with%20Lambda%20Function/)
+- [C++ program to calculate squares using lambda functions](/02CPP/02/T06.cpp)
 
 #### 7. Sort Array with Lambda Function
-- [C++ program to sort an array using lambda functions](2/7-%20Sort%20Array%20with%20Lambda%20Function/)
+- [C++ program to sort an array using lambda functions](/02CPP/02/T06.cpp)
 
 ## 03
 
