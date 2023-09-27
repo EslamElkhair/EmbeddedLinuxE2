@@ -3,7 +3,7 @@
 ## 01
 
 #### 1. ASCII Table Generator
-- [C++ program to generate an ASCII table](1/1-%20ASCII%20Table%20Generator/)
+- [C++ program to generate an ASCII table](02CPP/01/T01.cpp)
 
 #### 2. Maximum Number Finder
 - [C++ program to find the maximum number](1/2-%20Maximum%20Number%20Finder/)
